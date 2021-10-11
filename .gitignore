@@ -11,6 +11,8 @@ mysql.json
 07_NLP/data/
 movies/
 data/
+03_TensorFlow/cats_and_dogs_small/
+03_TensorFlow/__MACOSX/
 
 
 # Byte-compiled / optimized / DLL files
